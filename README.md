@@ -1,4 +1,3 @@
-TEXTO TEXTO WORD
-TEXTO
+TEXTO TEXTO TEXTO
 
-Será que agora dá?
+Afinal não
