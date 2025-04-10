@@ -1,2 +1,4 @@
-TEXTO TEXTO TEXTO
+TEXTO TEXTO WORD
 TEXTO
+
+Será que agora dá?
